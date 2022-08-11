@@ -1,15 +1,15 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+# Week - 1
+```Hafta veya Ödev Sayısı (1)```
 
 # Homework 
-```Ödev```
+Basic Array methods
 
 
 ## Homework Description
 
-```Ödev Açıklaması ```
+Completed questions with desired solutions
 
 
 ## Author
 
-```Ödevi yapan```
+Cenk Buker
