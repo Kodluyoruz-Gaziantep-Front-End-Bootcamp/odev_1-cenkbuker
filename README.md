@@ -1,20 +1,5 @@
 # Week - 1
-```Hafta veya Ödev Sayısı (1)```
-
-# Homework 
-Basic Array methods
-
-
-## Homework Description
-
-Completed questions with desired solutions
-
-
-## Author
-
-Cenk Buker
-///////////////////////
-
+```
 let arr1 = ['2', 'a', '3', 3, 4, 3, 5, 5]
 let arr2 = ['c', 'c', 'h', 1, 1, 1, 4]
 let arr3 = [
@@ -106,3 +91,17 @@ const sumId = arr1.reduce(
     0
   );
 console.log(sumId)
+}
+```
+# Homework 
+Basic Array methods
+
+
+## Homework Description
+
+Completed questions with desired solutions
+
+
+## Author
+
+Cenk Buker
